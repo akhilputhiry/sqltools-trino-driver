@@ -2,19 +2,19 @@
   "name": "sqltools-trino-driver",
   "displayName": "Trino Driver",
   "description": "Trino Driver for SQLTools",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "engines": {
     "vscode": "^1.84.0"
   },
-  "publisher": "regadas",
+  "publisher": "akhilputhiry",
   "license": "MIT",
   "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/regadas/sqltools-trino-driver.git"
+    "url": "https://github.com/akhilputhiry/sqltools-trino-driver.git"
   },
   "bugs": {
-    "url": "https://github.com/regadas/sqltools-trino-driver/issues"
+    "url": "https://github.com/akhilputhiry/sqltools-trino-driver/issues"
   },
   "scripts": {
     "clean": "rimraf -rf out *.vsix",
